@@ -71,12 +71,15 @@ plt.show()
 ## Output:
 
 TRAINING DATA:
+
 ![alt text](train.png)
 
 TESTING DATA:
+
 ![alt text](test.png)
 
 CALCULATION:
+
 ![alt text](calc.png)
 
 
