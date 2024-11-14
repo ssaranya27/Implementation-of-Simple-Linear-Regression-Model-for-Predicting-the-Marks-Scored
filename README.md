@@ -10,12 +10,16 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 Step 1: Collect Data
 Gather data on study hours (X) and marks scored (Y).
+
 Step 2: Preprocess Data
 Clean data, handle missing values, and split into training/testing sets.
+
 Step 3: Train Model
 Apply linear regression on X_train and Y_train.
+
 Step 4: Make Predictions
 Use the model to predict marks on X_test.
+
 Step 5: Evaluate Model
 Compare predicted marks with actual marks to assess accuracy.
 
